@@ -4,10 +4,15 @@ SolanaTradingBot
 🎯 WHAT TO EXPECT:
 Plain Text
 🔐 Enter wallet password: [hidden]
+
 ✅ Wallet loaded successfully
+
 📍 Wallet Address: [your address]
+
 💰 SOL Balance: 0.185 SOL
+
 🚀 Bot initialized successfully!
+
 
 🔍 ARBITRAGE SCAN #1 - 10:45:23
 📊 Scanning 51 pairs across 6 DEX routes...
