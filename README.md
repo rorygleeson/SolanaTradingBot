@@ -16,7 +16,9 @@ SolanaTradingBot
 
 
 🔍 ARBITRAGE SCAN #1 - 10:45:23
+
 📊 Scanning 51 pairs across 6 DEX routes...
+
 ================================================================================
 SCANNING  1/51: JUP/USDC
 
